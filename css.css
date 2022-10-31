@@ -452,6 +452,9 @@ li{
   overflow: hidden;
   
 }
+.section img{
+  left: -60%;
+}
 .projects{
   grid-template-columns:1fr ;
   grid-template-rows: auto;
