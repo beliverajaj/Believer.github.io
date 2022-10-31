@@ -67,10 +67,11 @@ li{
   .menu{
     display: none;
   }
+ 
   .logo .svg-wrapper{
     position: relative;
-    top: 60%;
-    transform: translateY(-50%);
+    top: 85%;
+    transform: translateY(14%);
     margin: 0 auto;
     width: 320px;  
     left: 1%;
@@ -364,6 +365,16 @@ li{
     position: absolute;
     top: 15px;
     right: 15px;
+  }
+  .logo .svg-wrapper{
+    position: relative;
+    top: 60%;
+    transform: translateY(-50%);
+    margin: 0 auto;
+    width: 320px;  
+    left: 1%;
+    text-align: center;
+
   }
   .navbar{
     display: flex;
