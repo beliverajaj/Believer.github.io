@@ -453,7 +453,7 @@ li{
   
 }
 .section img{
-  left: -60%;
+  left: -30%;
 }
 .projects{
   grid-template-columns:1fr ;
