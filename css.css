@@ -69,7 +69,7 @@ li{
   }
   .logo .svg-wrapper{
     position: relative;
-    top: 85%;
+    top: 60%;
     transform: translateY(-50%);
     margin: 0 auto;
     width: 320px;  
@@ -433,9 +433,9 @@ li{
  
 }
 
-.section img{
+
   
-}
+
 .section{
   background-position:right -54vw bottom 100vh;  
   overflow: hidden;
