@@ -454,6 +454,7 @@ li{
 }
 .section img{
   left: -30%;
+  bottom: 0;
 }
 .projects{
   grid-template-columns:1fr ;
